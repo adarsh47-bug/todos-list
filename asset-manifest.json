@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TodosList-Adarshcodes/static/css/main.f855e6bc.css",
-    "main.js": "/TodosList-Adarshcodes/static/js/main.c85d5d14.js",
-    "static/js/787.fb768f3e.chunk.js": "/TodosList-Adarshcodes/static/js/787.fb768f3e.chunk.js",
-    "index.html": "/TodosList-Adarshcodes/index.html",
-    "main.f855e6bc.css.map": "/TodosList-Adarshcodes/static/css/main.f855e6bc.css.map",
-    "main.c85d5d14.js.map": "/TodosList-Adarshcodes/static/js/main.c85d5d14.js.map",
-    "787.fb768f3e.chunk.js.map": "/TodosList-Adarshcodes/static/js/787.fb768f3e.chunk.js.map"
+    "main.css": "/todos-list/static/css/main.f855e6bc.css",
+    "main.js": "/todos-list/static/js/main.8158337b.js",
+    "static/js/787.fb768f3e.chunk.js": "/todos-list/static/js/787.fb768f3e.chunk.js",
+    "index.html": "/todos-list/index.html",
+    "main.f855e6bc.css.map": "/todos-list/static/css/main.f855e6bc.css.map",
+    "main.8158337b.js.map": "/todos-list/static/js/main.8158337b.js.map",
+    "787.fb768f3e.chunk.js.map": "/todos-list/static/js/787.fb768f3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.c85d5d14.js"
+    "static/js/main.8158337b.js"
   ]
 }
