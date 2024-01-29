@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TodosList-Adarshcodes/static/css/main.f855e6bc.css",
+    "main.js": "/TodosList-Adarshcodes/static/js/main.c85d5d14.js",
+    "static/js/787.fb768f3e.chunk.js": "/TodosList-Adarshcodes/static/js/787.fb768f3e.chunk.js",
+    "index.html": "/TodosList-Adarshcodes/index.html",
+    "main.f855e6bc.css.map": "/TodosList-Adarshcodes/static/css/main.f855e6bc.css.map",
+    "main.c85d5d14.js.map": "/TodosList-Adarshcodes/static/js/main.c85d5d14.js.map",
+    "787.fb768f3e.chunk.js.map": "/TodosList-Adarshcodes/static/js/787.fb768f3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c85d5d14.js"
+  ]
+}
